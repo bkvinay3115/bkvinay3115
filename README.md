@@ -17,7 +17,4 @@ Hi, I'm **Vinay BK** 👋
 
 🌱 Always eager to learn, collaborate, and contribute to impactful projects.
 
-📫 Connect with me:
-
-* GitHub: github.com/bkvinay3115
 
