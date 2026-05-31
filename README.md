@@ -70,8 +70,7 @@
 | Project                            | Technologies                                | Highlights                                                                                                           |
 | ---------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 🛒 **E-Commerce Website**          | Django, SQLite, Bootstrap, JavaScript       | Complete online shopping platform with cart, checkout, order management, PDF invoice generation, and admin dashboard |
-| 🔧 **Smart Service Provider**      | Django, SQLite, Bootstrap, JavaScript       | Multi-role service marketplace with booking management, approval workflows, and payment tracking                     |
-| 🤖 **AI Code Reviewer**            | React, Node.js, Express, MongoDB, Gemini AI | AI-powered code analysis tool that provides intelligent suggestions to improve code quality                          |
+| 🔧 **Smart Service Provider**      | Django, SQLite, Bootstrap, JavaScript       | Multi-role service marketplace with booking management, approval workflows, and payment tracking                     |                          |
 | 🖐️ **Hand Gesture Virtual Mouse** | Python, OpenCV, MediaPipe, PyAutoGUI        | Real-time cursor control using hand gestures with click simulation and screenshot functionality                      |
 
 ---
