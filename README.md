@@ -90,9 +90,8 @@
 ## 📫 Connect With Me
 
 * 📧 Email: **[bkvinay3115@email.com](mailto:bkvinay3115@email.com)**
+* 💼 LinkedIn: **[linkedin.com/in/vinay-bk](https://www.linkedin.com/in/vinay-bk/)**
 * 💻 GitHub: **https://github.com/bkvinay3115**
 * 🌐 Portfolio: **https://portfoliovinaybk.netlify.app**
-
----
 
 
